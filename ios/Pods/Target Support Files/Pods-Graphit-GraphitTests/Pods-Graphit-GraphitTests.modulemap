@@ -1,6 +1,0 @@
-module Pods_Graphit_GraphitTests {
-  umbrella header "Pods-Graphit-GraphitTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
